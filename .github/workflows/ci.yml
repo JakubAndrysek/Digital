@@ -33,3 +33,6 @@ jobs:
 
     - name: Upload code coverage to Codecov
       uses: codecov/codecov-action@v2
+
+    - name: Set GIT_COMMIT environment variable
+      run: echo "GIT_COMMIT=dummy-value" >> $GITHUB_ENV
