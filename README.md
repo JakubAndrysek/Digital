@@ -2,6 +2,7 @@
 
 ![Build Status](https://travis-ci.com/hneemann/Digital.svg?branch=master)
 [![codecov](https://codecov.io/gh/hneemann/Digital/branch/master/graph/badge.svg)](https://codecov.io/gh/hneemann/Digital)
+[![Github Actions](https://github.com/JakubAndrysek/Digital/actions/workflows/ci.yml/badge.svg)](https://github.com/JakubAndrysek/Digital/actions)
 
 # Digital #
 
